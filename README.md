@@ -24,10 +24,12 @@ Objectives: Max out at 11 minutes, Learning Priorities, Developing Habits
     - build more units as they die, build new bases as mineral patches mine out
     - fix saturation (move probes from over-saturated mineral lines to new/undersaturated ones)
 #### Rough Benchmarks
-- 2nd nexus starts at 1:28
-- 3rd nexus starts at 3:45
-- 4th nexus starts at 5:55
-- max probe saturation (~80) at around 7:00
+  - 2nd nexus starts at 1:28
+  - 3rd nexus starts at 3:45
+  - 4th nexus starts at 5:55
+  - max probe saturation (~80) at around 7:00
+
+Vibe is very careful to stress that in this stage, the build order is actually not the important part. You want to focus on your macro priorities and habits. I'm just adding these benchmarks here so you get a sense of roughly when he is expanding in these games. This was helpful for me because he expands much more quickly than I did before watching the series.
 #### Videos for this stage:
 - [Bronze 3 to Bronze 2](https://www.youtube.com/watch?v=6qBKnnFKk0E&list=PLFeZeom2b4Dm_PXPREvPRAJVa6dijv0FF&index=3&t=0s)
 - [Bronze 2 to Bronze 1](https://www.youtube.com/watch?v=r3HQAUXhhfY&list=PLFeZeom2b4Dm_PXPREvPRAJVa6dijv0FF&index=4&t=0s)
