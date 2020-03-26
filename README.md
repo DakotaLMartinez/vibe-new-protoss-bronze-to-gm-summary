@@ -25,10 +25,10 @@ Objectives: Max out at 11 minutes, Learning Priorities, Developing Habits
     - fix saturation (move probes from over-saturated mineral lines to new/undersaturated ones)
 ### Bronze 3 to Bronze 2
 Benchmarks
-2nd nexus starts at 1:28
-3rd nexus starts at 3:45
-4th nexus starts at 5:55
-max probe saturation (~80) at around 7:00
+- 2nd nexus starts at 1:28
+- 3rd nexus starts at 3:45
+- 4th nexus starts at 5:55
+- max probe saturation (~80) at around 7:00
 ### Bronze 2 to Bronze 1
 
 ### Bronze 1 to Silver 3
