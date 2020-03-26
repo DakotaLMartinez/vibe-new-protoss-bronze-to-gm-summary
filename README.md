@@ -23,7 +23,7 @@ Objectives: Max out at 11 minutes, Learning Priorities, Developing Habits
     - find your opponents most recent expansion and a-move there shift a-move the rest of his bases
     - build more units as they die, build new bases as mineral patches mine out
     - fix saturation (move probes from over-saturated mineral lines to new/undersaturated ones)
-Rough Benchmarks
+#### Rough Benchmarks
 - 2nd nexus starts at 1:28
 - 3rd nexus starts at 3:45
 - 4th nexus starts at 5:55
